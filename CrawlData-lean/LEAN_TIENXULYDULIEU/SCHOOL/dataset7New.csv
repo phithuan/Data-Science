@@ -1,0 +1,121 @@
+Stemmed_Title,Stemmed_Excerpt,Stemmed_Pub_Date
+consum api respons,or etiquett and tabl manner for ping other peopl server,nov 2022
+creat a seri of post with navig in jekyl,add jekyl post into a seri with seri navig,feb 2022
+a practic guid to light and dark mode in bootstrap 5 and jekyl,implement light and dark mode on your bootstrap 5 jekyl websit,jan 2022
+nemo the ubuntu file manag you did not know you need,celebr 2022 with a shini new file manag for ubuntu,jan 2022
+announc fediverseto,i have been work on a search engin for fedivers instanc,jan 2022
+easi pretti url redirect with jekyl and netlifi,combin jekyl and netlifi to creat pretti url redirect a easi a 123,nov 2021
+link jekyl page back to their git sourc code,add a link back to the public git host link for ani static jekyl blog,nov 2021
+optimis jpg and png imag for a jekyl websit,use cli tool to gener resiz and optimis thumbnail for articl header imag,nov 2021
+quick and easi clientsid javascript search with lunrj,display search result from ani json data object in the browser use lunrj,nov 2021
+creat light and dark theme for websit the right way use preferscolorschem,blur the line between desktop and web by let the os style your websit or webapp,oct 2021
+make linux app for notion mastodon or ani web app use nativefi,notion is an awesom life manag and mastodon is great for decentralis internet shenanigan with nativefi i can now enjoy them a app on ubuntu 2004,oct 2021
+insert dynam data into jekyl static site use python or bash,autogener jekyl configur file with content and avoid creat an api backend,oct 2021
+introduct to ansibl,ansibl is the answer to custom script and tool that eventu snowbal into a kludg which break more thing than it fix,aug 2021
+introduct to yaml,what is yaml and whi is it about time we start use it,aug 2021
+introduct to jekyl,jekyl is a framework for build websit write your content in markdown use htmlcss for structur and present and jekyl compil it all into static html no server no backend no fuss,aug 2021
+multimachin setup and configur with vagrant,if you ever need to test an app and a databas did you know you can use vagrant to bring up multipl test machin at onc here is how,aug 2021
+provis with vagrant,ansibl work well to provis a vagrant box with everyth instal from the getgo,aug 2021
+introduct to vagrant,vagrant help you run other oper system on your comput mean you can build thing test thing and do crazi shit without blow up your own system,aug 2021
+a guid to web scrape in python use beautifulsoup,webscrap is a use but often neglect technic skill the beautifulsoup librari in python make extract html from web page easi do with that what you will,aug 2021
+use variabl in jekyl to defin custom content,i recent discov that jekyl configyml can be use to defin custom variabl for reus content i feel like i have been live under a rock all thi time but to err over and over again is human,aug 2021
+the evolut of ayushsharmain jekyl bootstrap netlifi static websit and respons design,in thi articl i will highlight some idea for jekyl collect blog categori page respons webdesign and netlifytoml to make static websit mainten a breez,jul 2021
+5 key best practic for sane and usabl terraform setup,these are the top 5 lesson i have learn after 5 year of terraform,jul 2021
+cloud infrastructur sast scan terraform for secur vulner and noncompli use checkov,in thi articl i explor checkov a static code analysi tool for terraform,jul 2021
+terraform helm a match made in heavenhel,i have just discov that terraform can deploy helm chart a well but i am not sure if i like it,jul 2021
+autom argocd use argocd,in thi tutori i will show you how to automat creat multipl applic in argocd use argocd,jul 2021
+get start with argocd,in thi post we meet argocd a simpl pullbas gitop deploy tool which sync k8 manifest file with a cluster for easi and nononsens deploy,jul 2021
+creat readytous aw secur group use terraform registri name group and name rule,creat parameter aw secur group quickli and consist with terraform registri,sep 2020
+creat aw vpc in 2 minut with terraform registri,creat parameter aw vpc quickli and consist with terraform registri,sep 2020
+continu deliveri on gitlab push docker imag to dockerhub use gitlab pipelin,build and push docker imag to dockerhub use gitlab pipelin featur,jun 2020
+configur elasticsearch snapshot use slm on googl comput engin,a tutori on how to configur automat snapshot of elasticsearch use the inbuilt snapshot lifecycl manag on googl comput engin,jun 2020
+work from home and softwar engin,your time and attent is your primari resourc so deploy it wise,jun 2020
+the viru and the cloud tip on aw costsav in these weird time,2020 is the year startup are tri to save aggres on cloud spend i list down some key learn base on my experi,apr 2020
+replic bitbucket pipelin on your laptop for local debug,i love bitbucket pipelin and debug them on your laptop is even easier thank to docker contain i will show you how to debug serverless deploy and diagnos broken build,mar 2020
+clone anoth bitbucket repositori in bitbucket pipelin,i will show you how to allow one bitbucket repo to clone anoth dure a pipelin build,feb 2020
+deploy git submodul in bitbucket pipelin,git submodul make it easi have repo for common depend but how to actual clone them in your bitbucket pipelin,feb 2020
+autom amazon elast contain ecr contain build use bitbucket pipelin,i will show you how to build a docker imag in a pipelin and push it to a contain registri in thi case amazon ecr,aug 2019
+tame aw cost with cost and usag report aw athena,aw cost usag report with aw athena are vital for understand cloud spend i will show you some handi athena queri to break thing down,aug 2019
+export bitucket repositori and pipelin with python,bitbucket doe not offer a dashboard yet or an easi way to fetch inform for all your repo and pipelin so i wrote a handi python script for the job it is great for configur alert or build nearrealtim dashboard,jun 2019
+rediscov logo with bob the turtl,my veri first program languag wa logo i can still rememb guid that fuzzi littl onscreen turtl to draw simpl and complex shape so i found the logo python modul and took a walk down memori lane,jun 2019
+autom serverless framework deploy use bitbucket pipelin,the opensourc serverless framework make it easi to build and deploy lambda stack i will walk you through deploy serverless app automat use pipelin,may 2019
+autom aw lambda deploy use bitbucket pipelin and bitbucket pipe,pipe is anoth great continu deliveri featur in bitbucket prebuilt readytous and parameter deploy job,may 2019
+algorithm in python exchang sort,note on implement the basic exchang sort algorithm in python,mar 2019
+the three way of devop note on the phoenix project,the phoenix project is one of the most approach book for devop avail today highli recommend especi if you do not alreadi know conway law,jan 2019
+work with numpi in python,my udac python nanodegre introduc use numpi to handl larg array and dataset in python i put some note togther for referenc later,oct 2018
+data type in python,some quick note describ the basic data type in python3 and their featur,sep 2018
+docker tweettoot a practic guid to deploy your app use docker,tweettoot is my person project a twitter relay for the mastodon social network i recent docker the setup and put these note togeth to explain the process,sep 2018
+sublimetext 3 setup for jekyl develop,sublimetext ha some cool plugin for set up a basic jekyl develop environ take a look,sep 2018
+gartner magic quadrant a summari of cloud infrastructureasaservic provid over the last 5 year,gartner magic quadrant wa one of the the first industri report i read which cover where the cloud vendor were head and what their strength and weak were i took some time to consolid the gartner find over the last 5 year for comparison,sep 2018
+tweettoot build a bot for mastodon use python,i join the mastodon social network in 2016 and felt a need for build a twitter relay we all left the birdsit for mani reason but not the peopl we met so thi project is a way to bring some of them over to mastodon in practic if not in spirit,sep 2018
+move from cloudflar to stackpath,i love cloudflar but after face some issu with ttfb i decid to move to stackpath which prove to be a lot faster and featurerich,jul 2018
+understand vendor lockin and break the cycl,i went through one of gartner report and it say the key to break vendor lockin is to commit fulli to a singl technolog vendor be it a cloud softwar provid a social network or our favorit share app it seem controversi on the surfac but i want to jot down some quick note mayb the approach is worth experi with,jul 2018
+roll cluster for deploy with terraform,terraform enabl more than infrastructur provis you can even use it for deploy combin it with packer and you can have a veri power immut roll deploy pipelin,jul 2018
+work with terraform modul,terraform modul featur allow quickli build reusabl infrastructur templat to provis cloud environ repeat these note will help set up a basic applic for highavail,jul 2018
+get start with terraform,a basic walkthrough of terraform the opensourc cloudagnost iac tool by hashicorp the maker of vagrant,oct 2017
+upgrad to http2,it is about time we all move our web properti to http2 i list down some gotcha for those look to migrat,sep 2017
+http secur header referrerpolici,the web is a collect of interconnect page thi mean chanc are good that someon land on your websit is come from anoth one and when they leav your websit they take a lot of identifi inform with them http2 allow you to control what happen to the referr inform when user leav your websit,sep 2017
+http secur header xcontenttypeopt,http2 introduc a new featur which basic just turn off an old default featur the browser hanker for figur out the content type of a resourc whi and how should we turn it off,sep 2017
+http secur header xframeopt,inlinefram enabl veri basic phish attack you can just includ a bank main websit within your own websit and lure the user to handov their password http2 come with builtin protect against thi kind of threat,sep 2017
+http secur header httpstricttransportsecur,hst is a secur featur which prevent user from access your websit over nonsecur http it come with http2 is easi to turn on but veri hard to turn off here is the whi and how,sep 2017
+http secur header xxssprotect,http2 come with builtin protect for xss here is what it doe and how to turn it on,sep 2017
+http secur header contentsecuritypolici,http2 csp let u you defin a whitelist of what is allow and what is block on your websit thi let u browser block thirdparti tracker which tri to annoyharm your user here is the whi and how,sep 2017
+i am kill disqu comment on my blog here is whi,i ad the disqu comment platform to my blog some time ago and then i found out that it wa load way too mani track cooki inlin and profil my websit user thi is how you build orwellian softwar and shitti softwar,sep 2017
+post messag to slack use incom webhook and python3 request api,slack ha becom a favorit of devopssr team across the globe it is a veri easytous and programmat messag platform here is the quick and easi process to post messag to your slack group from python,sep 2017
+use packer and ansibl to creat immut server deploy code and recycl instanc,packer is an amaz golden imag builder ansibl is a great deploy tool so let u use them togeth,sep 2017
+get start with packer,packer basic docker for whole vm anoth great tool by hashicorp thi one modernis an old formula but retain the simplic build immut server wa never thi easi,sep 2017
+the differ way i have deploy code over the year the road to immut server,i took a walk down memori lane to tri and figur out how much my daili work ha chang the concept are still the same but the tool have becom bigger becaus our need have shift dramat over the year,sep 2017
+test aw elast load balanc health check endpoint with python,a quick script for adhoc healthcheck of load balanc instanc,sep 2017
+complet nginx monitor with collectd and influxdb,i recent discov influxdb a a great writeheavi databas for store metric these are my note on monitor the golden signal in nginx use collectd and influxdb,aug 2017
+deploy jekyl blog automat use bitbucket pipelin,becaus whi not here is how to build your jekyl websit and deploy it to a vm of your choic,aug 2017
+migrat mysql databas tabl to influxdb,if you ever need to migrat a mysql databas to influxdb say if you were use mysql a a metric databas becaus you were too busi not know influx even exist then thi handi python script can do the job and take care of schema migrat too,aug 2017
+back up influxdb databas to s3,a handi bash script to backup your influxdb databas to aw s3 great for cron job,aug 2017
+set up grafana to use collectd and influxdb,grafana provid outofthebox support for influxdb so visualis the metric you are collect use collectd etc is straightforward here is how to do it,aug 2017
+set up collectd and influxdb on mac os x,a quick copypast process for instal collectd and influxdb on your mac for some local test,aug 2017
+get start with timeseri data use influxdb,a quick comparison of relat v timeseri databas follow by a brief handson tutori for influxdb on a local mac os,aug 2017
+get start with server metric collect with collectd,collectd a cbase daemon is a fast and lightweight metric shipper,aug 2017
+retri strategi for transient failur,a veri basic realiti of comput network is that it fail and when it doe there are way to retri your connect to make life easier for you and other client a well,aug 2017
+use rout 53 a a load balanc,aw elast load balanc do their job well but they can get pricey so natur i tri use route53 for load balanc traffic it wa a lot harder than i thought and while thi experi did not succeed i am note my approach here for better luck next time,aug 2017
+mysql databas backup to s3,a handi bash script to backup all mysql databas to aw s3,aug 2017
+mastodon user and instanc in sqlite3 use python,the titl realli say it all export data from json and ingest into sqlite3,apr 2017
+the ultim guid to use mail in linux,i instal mutt to send email from the commandlin it is fast and the cli switch are memor worth a look if you use the cli for send email a lot,apr 2017
+fix valueerrorunknown local s localenam in python,you get 3 guess for what the solut could be,mar 2017
+get start with xinetd,xinetd is a lightweight and straightfoward http server not a power a nginx but it is great for simpl thing like configur health check,mar 2017
+get citi countri and isp of an ip address use maxmind geoip,the maxmind geoip databas is use for look up the countri and isp inform for an ip address,mar 2017
+aw gc azur and digit ocean incid by servic in 2016,i pull the data for technolog incid for the major cloud servic the find were pretti interest,mar 2017
+i have someth to say ii,these have been the confess of a firefight who ignor the smoke,mar 2017
+use weight geo and failov rout in rout 53,at work one of my recent project involv set up a multiregion failov with weightedrout support thank route53 ha all of these builtin here is how to do it,mar 2017
+you still might need a stage server in 2017,it is 2017 and the cloud ha matur by leap and bound so do we still need stage server,mar 2017
+aw gc azur and digit ocean incid in 2016,i pull the data for technolog incid on the major cloud platform the find were pretti interest,mar 2017
+i have someth to say,ten year from now if or when i am in anoth job no one is go to care whether i ran my product server with my heart and soul they will care if i save money they will care if i ran it effici but you can do those thing while still compromis your valu,mar 2017
+connect vpc in 2 aw region sitetosit vpn,a stepbystep guid for connect 2 aw vpss use selfhost strongswan vpn,feb 2017
+instal php 7 fpm mysql 57 nginx 110 on ubuntu 1604,these are instruct for instal php7 mysql 57 and nginx 110 on ubuntu 1604 veri copypast,feb 2017
+work with logic volum manag lvm,some note on logic volum manag what it is whi it is and how to use it,feb 2017
+fiddl with logrot,logrot is one of those builtin linux thing that we do not use often enough rotat log archiv them to s3 push them to some remot serverendpoint etc it is all doabl with logrot,jan 2017
+aw rout 53 note,route53 what whi how whi not,jan 2017
+aw eb type readwrit benchmark,i ran hdparm and dd on gp2 piop sc1 st1 and magnet eb volum check out the result,jan 2017
+log aw spot instanc termin,aw spot instanc provid 90 save over ondemand server the downsid aw can yank them whenev they want and you have 2 minut to back thing up how do you know when the start pistol fire,oct 2016
+decompress request use gzip with nginx,if you are use a lua modul with nginx then decompress gzip data requir some extra handl,oct 2016
+compress output use gzip with php 53,it is pretti hard to compress output with gzip in php 53 but in case you ever need to here is how,oct 2016
+introduct to loadbalanc with nginx,i will explor the basic of selfhost loadbalanc with nginx use a conveni test setup use vagrant,aug 2016
+read jwt token in phalcon,here is how to read a respons json web token in php phalcon,aug 2016
+set custom 404 control in phalcon,after codeignit phalcon wa the second php framework that i use blazingli fast and easytous one of the first thing i did wa creat a custom 404 respons control,aug 2016
+dn record type,a quick guid to the differ dn record type,aug 2016
+secur nginx with let u encrypt free ssl certif,let u encrypt is the selfhost industrystandard method of gener ssl certif for your applic if you are still pay for ssl certif you are do it wrong,aug 2016
+vertic scale v horizont scale,the differ between vertic and horizont scale may be simpl but they are critic to use cloud technolog effect,aug 2016
+essenti vim keyboard shortcut,a quick guid of essenti vim shortcut,aug 2016
+note on aw sq,aw sq what whi how whi not,aug 2016
+mysql physic backup with innobackupex,innobackupex part of percona xtrabackup can perform physic backup of your mysql databas,aug 2016
+introduct to mysql partit,mysql partit basic what whi and how,aug 2016
+introduct to fluentd,the legaci log infrastructur we have to deal with today wa design for human and not machin so a lot of effort is wast tri to make backend system understand log data,aug 2016
+nano keyboard shortcut,a quick refer of nano shortcut,aug 2016
+json web token,the follow document ass the possibl of use jwt pronounc jot a a token exchang mechan for api,aug 2016
+hello world,hello world you littl blue thing,aug 2016
+rise of the argonaut review,stun level design innov combat system and beauti charact model make thi game worth your time and money,jun 2009
+a guid to better town manag in caesar iii,caesar iii can be challeng even more so if your town is not product,jul 2005
+metal fatigu review,a review of metal fatigu the last great mech game with landbas underground and orbit combat,jul 2005
+command and conquer red alert 2 review,a review of command and conquer red alert 2 one of the best rt game of all time,jul 2005
+top 10 tip for command and conquer red alert 2,have troubl with command and conquer red alert 2 here are a few basic beginn thing you should rememb while play,jun 2005
+command and conquer red alert 2 red revolut walkthrough,a walkthrough of command and conquer red alert 2 penultim mission red revolut,jun 2005
+black and white tip and edit the game,a few handi tip for the game and a brief tutori on how to edit the game,jun 2005
+command and conquer red alert 2 chronostorm walkthrough,a walkthrough of command and conquer red alert 2 final alli mission chronostorm,jun 2005
