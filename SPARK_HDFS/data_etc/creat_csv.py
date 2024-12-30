@@ -1,0 +1,26 @@
+import csv
+
+# Dữ liệu của bạn
+data = [
+    [1, "2013-07-25 00:00:00.0", 11599, "CLOSED"],
+    [2, "2013-07-25 00:00:00.0", 256, "PENDING_PAYMENT"],
+    [3, "2013-07-25 00:00:00.0", 12111, "COMPLETE"],
+    [4, "2013-07-25 00:00:00.0", 8827, "CLOSED"],
+    [5, "2013-07-25 00:00:00.0", 11318, "COMPLETE"],
+    [6, "2013-07-25 00:00:00.0", "error", "COMPLETE"],
+    [7, "2013-07-25 00:00:00.0", 4530, "COMPLETE"],
+    [8, "2013-07-25 00:00:00.0", 2911, "PROCESSING"],
+    [9, "2013-07-25 00:00:00.0", "unknown", "PENDING_PAYMENT"],
+    [10, "2013-07-25 00:00:00.0", 5648, "PENDING_PAYMENT"]
+    
+]
+
+# Tên tệp CSV
+filename = "dataBug.csv"
+
+# Tạo tệp CSV
+with open(filename, 'w', newline='') as csvfile:
+    writer = csv.writer(csvfile)
+    writer.writerows(data)
+
+print(f"Tệp CSV đã được tạo thành công với tên: {filename}")
